@@ -1,0 +1,22 @@
+{
+  "name": "reanimated-loader-example",
+  "displayName": "ReanimatedLoader Example",
+  "expo": {
+    "name": "reanimated-loader-example",
+    "slug": "reanimated-loader-example",
+    "description": "Example app for reanimated-loader",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
